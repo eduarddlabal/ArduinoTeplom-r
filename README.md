@@ -11,3 +11,8 @@ Jednoduchý teploměr s dvěma senzory a I2C 16x2 displejem.
 
 Moje (prasácké) zpojení na breadboardu:
 ![20240713_232546](https://github.com/user-attachments/assets/3f4c0ff5-665e-4379-ab03-c0d0914073d1)
+
+## Co plánuji s tímto dál?
+- Přidat modul hodin reálného času a sedmisegmentovku které bude hodiny zobrazovat
+- Vyřešit problémy s I2C displejem, a senzory s ESP8266 a přechod na ESP8266
+- Posílání dat přes MQTT případně webové ovládání
